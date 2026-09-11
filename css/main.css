@@ -2392,7 +2392,7 @@ a {
   grid-column-gap: 12px;
   grid-row-gap: 12px;
   grid-template-rows: auto;
-  grid-template-columns: 3fr 5fr;
+  grid-template-columns: 1fr;
   grid-auto-columns: 1fr;
   padding-top: 88px;
   display: grid;
